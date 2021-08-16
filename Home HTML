@@ -1,0 +1,44 @@
+<html>
+<head>
+<title> Home</title>    
+</head>
+<body>
+
+<h1 id="top"> KSENIYA KIM </h1>
+<hr />
+
+<a href="Home.html">Home</a>
+<a href="AboutMe.html">About Me</a>
+<a href="ContactMe.html">Contact Me</a>
+<a href="SocialMedia.html">Social Media</a>
+<br><br>
+
+<img title="Cute fox with full name on pink background" src="Images/logo.jpg" alt="A friendly fox logo with my full name, kseniya kim surrounding the fox on a pink background" width="350" height="350"/>
+
+<p> Welcome to my portoflio; enjoy your stay! </p>
+
+<p>
+    <b>5 things about myself</b>
+    <ol>
+        <li>I have owned over 300 plants at one time.</li>
+        <li>I love sushi and pizza.</li>
+        <li>I was born in Uzbekistan.</li>
+        <li>I am currently studying IT-Software Dev and Cybersecurity at the University of Cincinnati.</li>
+        <li>My favorite dessert is a warm donut paired with a cup of hot black coffee.</li>
+    </ol>
+</p>
+<br><br><br>
+
+<p>
+Email: <a href="mailto: Kseniyafkim@gmail.com">
+kseniyafkim@gmail.com</a>
+</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p><a href="#top">Take me back up</a></p>
+
+
+
+</html>
+</body>
